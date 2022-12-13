@@ -1,3 +1,7 @@
+```
+Neovim config by chris@machine
+```
+
 # A Basic Stable IDE config for Neovim
 
 > Why does this repo exist?
